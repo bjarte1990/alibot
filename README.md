@@ -23,7 +23,7 @@ To use this tool you need to configure the following parameters in **config** fi
 * **TARGET_PRICE** : price you want to buy the product under
 * **REFRESH_INTERVAL** : page refresh interval
 * **WAIT_TIMEOUT** : max wait time for an element to load
-* **AUTO_BUY** : buy product automatically (YES/NO). Not recommended to keep it **YES**. It will automatically fill out bank card details and buy the product.
+* **AUTO_BUY** : buy product automatically (YES/NO). Not recommended to keep it as **YES**. It will automatically fill out bank card details and buy the product.
 * **CARD_NUMBER** : bank card number
 * **EXPIRY_MONTH** : bank card expiry month
 * **EXPIRY_YEAR** : bank card expiry year
