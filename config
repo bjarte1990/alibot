@@ -1,0 +1,13 @@
+DEAL_LINK = _https://www.aliexpress.com/store/product/xyz
+USER = _username
+PWD = _password
+TARGET_PRICE = 6
+REFRESH_INTERVAL = 2
+WAIT_TIMEOUT = 10
+AUTO_BUY = NO
+CARD_NUMBER = _
+EXPIRY_MONTH = _
+EXPIRY_YEAR = _
+CVC = _
+FIRST_NAME = _firstname
+LAST_NAME = _lastname
