@@ -1,5 +1,5 @@
 # AliBot
-Get ready for Flash Deals and buy products instantly. The tool waits until a product's price goes above a given price and navigates to the payment page. It is also able to auto-buy the product, altought it is not recommended to use.
+Get ready for Flash Deals and buy products instantly. The tool waits until a product's price goes below a given price and navigates to the payment page. It is also able to auto-buy the product, altought it is not recommended to use.
 
 ## Getting Started
 
